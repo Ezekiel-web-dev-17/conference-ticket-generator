@@ -24,7 +24,3 @@ const server = async () => {
 };
 
 server();
-
-// NA9ZFMfQtVxHvb6W
-// mongodb+srv://tabukeezekiel9:NA9ZFMfQtVxHvb6W@cluster0.hnoaf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-// https://conference-ticket-generator-kujj.onrender.com render link for Axios frontend.
